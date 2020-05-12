@@ -1,0 +1,38 @@
+body {
+
+    background-image: url("synths.jpg");
+    background-size: auto 100vh;
+    font-family: arial;
+    height: 100vh;
+
+}
+
+.menu {
+
+    background-color: white;
+
+}
+
+a {
+    color: teal;
+    text-decoration: none;
+}
+
+.menu li {
+
+    list-style: none;
+}
+
+.menu ul {
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.site-title,
+.site-subtitle {
+
+    color: whitesmoke;
+    text-align: center;
+	background-color: red;
+}
